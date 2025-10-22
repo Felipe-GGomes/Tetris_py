@@ -2,6 +2,15 @@
 #1 - instale o python na sua maquina https://www.python.org/downloads/
 #2 - instale a biblioteca pygame rodando o comando no terminal: pip install pygame
 
+
+#comandos para usar o jogo:
+
+# < -seta para esquerda: mover peça para esquerda
+# > -seta para direita: mover peça para direita
+# v -seta para baixo: mover peça para baixo
+# ^ -seta para cima: girar peça
+#segure as setas para mover continuamente
+
 import pygame
 import random
 
